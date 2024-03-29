@@ -1,7 +1,7 @@
 # Workshops 2024 | Third Edition
 
 ## NLP Special
-[GenAI in Real Life Presentation]([https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/GenAI%20in%20Viata%20Reala](https://docs.google.com/presentation/d/1bnmyUUnOXKsOok6Exn2Ik6IGhDvX8Msm/edit?usp=drive_link&ouid=104125965785644515865&rtpof=true&sd=true))
+[GenAI in Real Life Presentation](https://docs.google.com/presentation/d/1bnmyUUnOXKsOok6Exn2Ik6IGhDvX8Msm/edit?usp=drive_link&ouid=104125965785644515865&rtpof=true&sd=true)
 
 ## Python & Data Visualization
 [Exercises, Solutions](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Python%20and%20Data%20Visualisation)
