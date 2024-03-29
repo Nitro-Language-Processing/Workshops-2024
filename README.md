@@ -1,22 +1,20 @@
 # Workshops 2024 | Third Edition
 
+## NLP Special
+[GenAI in Real Life Presentation](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/GenAI%20in%20Viata%20Reala)
+
 ## Python & Data Visualization
-[Exercises](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Python%20for%20ML)
+[Exercises, Solutions](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Python%20and%20Data%20Visualisation)
 
 ## Machine Learning
-[Exercises](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Intro%20to%20ML)
+[Toy Dataset, Exercises](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Machine%20Learning)
 
 ## Natural Language Processing
 
-### Embeddings (Vectorization)
-[Slides](https://docs.google.com/presentation/d/1_Zt60pYl_zkQoTnPXYdF6OxDqe_xEXrC4HMlbbndqUI/edit?usp=sharing)
-[Exercises](https://colab.research.google.com/drive/1jKbbxwRnRzOO0JmCMGcNVXn3jRJ0STYp?usp=sharing)
-
-### Preprocessing
-[Exercises](https://colab.research.google.com/drive/1L2Cpf0OMoJwst1uZe7UJ94YwK3zCr06Q?usp=sharing)
+[Slides, Exercises, Solutions](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Natural%20Language%20Processing)
 
 ## Deep Learning
-[Exercises](https://colab.research.google.com/drive/1_u0DWJ9HgUE4WfBvJCZmIVlrApWci93G?usp=sharing)
+[Code Example](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Deep%20Learning)
 
 ## Transformers
-[Exercises](https://colab.research.google.com/drive/1Z5M8QWWQOfNTuPRuIS3gEYwuodr66bDZ?usp=sharing)
+[Theory, Code Example](https://github.com/Nitro-Language-Processing/Workshops-2024/tree/main/Transformers)
