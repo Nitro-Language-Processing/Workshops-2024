@@ -17,3 +17,6 @@
 
 ## Deep Learning
 [Exercises](https://colab.research.google.com/drive/1_u0DWJ9HgUE4WfBvJCZmIVlrApWci93G?usp=sharing)
+
+## Transformers
+[Exercises](https://colab.research.google.com/drive/1Z5M8QWWQOfNTuPRuIS3gEYwuodr66bDZ?usp=sharing)
